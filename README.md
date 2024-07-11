@@ -74,7 +74,7 @@ Create a text-based pet management system in C++ where players can feed, play, a
 
 ### 1. Set Up Project
 - Create a new C++ project and set up your development environment.
-- Include necessary headers (`<iostream>`, `<vector>`, `<string>`, `<cstdlib>`, `<ctime>`).
+- Include necessary headers (`<iostream>`, `<vector>`, `<string>`).
 
 ### 2. Define Pet Class
 - Create a `Pet` class with attributes: `name`, `happiness`, `health`, and `hunger`.
